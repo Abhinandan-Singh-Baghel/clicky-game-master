@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/clicky-game/static/css/main.2b10aa3d.css",
-    "main.js": "/clicky-game/static/js/main.8a6230f4.js",
-    "index.html": "/clicky-game/index.html",
-    "main.2b10aa3d.css.map": "/clicky-game/static/css/main.2b10aa3d.css.map",
-    "main.8a6230f4.js.map": "/clicky-game/static/js/main.8a6230f4.js.map"
+    "main.css": "/clicky-game-master/static/css/main.2b10aa3d.css",
+    "main.js": "/clicky-game-master/static/js/main.8a6230f4.js",
+    "index.html": "/clicky-game-master/index.html",
+    "main.2b10aa3d.css.map": "/clicky-game-master/static/css/main.2b10aa3d.css.map",
+    "main.8a6230f4.js.map": "/clicky-game-master/static/js/main.8a6230f4.js.map"
   },
   "entrypoints": [
     "static/css/main.2b10aa3d.css",
