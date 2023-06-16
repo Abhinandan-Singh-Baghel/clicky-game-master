@@ -1,0 +1,18 @@
+header {
+    background-color: whitesmoke;
+}
+
+h1 {
+    color: #466060;
+    font-size: 90px;
+    font-family: 'Notable', sans-serif;
+}
+
+.jumboHeading {
+    color: #466060;
+}
+
+nav {
+    background-color: #466060;
+    color: whitesmoke;
+}
