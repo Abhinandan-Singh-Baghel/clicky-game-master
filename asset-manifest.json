@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/clicky-game/static/css/main.2b10aa3d.css",
+    "main.js": "/clicky-game/static/js/main.8a6230f4.js",
+    "index.html": "/clicky-game/index.html",
+    "main.2b10aa3d.css.map": "/clicky-game/static/css/main.2b10aa3d.css.map",
+    "main.8a6230f4.js.map": "/clicky-game/static/js/main.8a6230f4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2b10aa3d.css",
+    "static/js/main.8a6230f4.js"
+  ]
+}
